@@ -1,6 +1,6 @@
 
 // #1 Create a variable called hello and assign it the string 'goodbye'
-
+var hello = 'goodbye';
 
 
 // #2 Use the variable iLove to create a new variable called iLoveCode that is assigned the string "I love code"
